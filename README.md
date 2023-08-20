@@ -1,1 +1,1 @@
-This project makes you understand all about git
+This project makes you understand all about git and usage
